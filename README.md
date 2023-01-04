@@ -14,18 +14,19 @@
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
 
 ### Connect with me!
 </a>
 <a href="https://www.linkedin.com/in/yusufziyaak/">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </a>
 
+### Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ysfzyak&show_icons=true&theme=tokyonight" />
+<img align="middle" src="https://github-readme-stats.vercel.app/api?username=ysfzyak&show_icons=true&theme=tokyonight" />
 
-![](https://komarev.com/ghpvc/?username=ysfzyak&color=blueviolet),
+![](https://komarev.com/ghpvc/?username=ysfzyak&color=blueviolet)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
