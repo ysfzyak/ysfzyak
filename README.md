@@ -19,11 +19,14 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-
-
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/yusufziyaak#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/yusufziyaak#gh-dark-mode-only)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yusufziyaak/)
 
 
 
-[linkedin]: https://linkedin.com/in/codeSTACKr
+<img height=50 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg"/><img height=50 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+
