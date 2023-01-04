@@ -18,11 +18,11 @@
 
 ### Connect with me!
 </a>
-<a href="https://github.com/ysfzyak">
+<a href="https://www.linkedin.com/in/yusufziyaak/">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
 </a>
-<a href="https://www.linkedin.com/in/yusufziyaak/">
+<a href="https://github.com/ysfzyak/">
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </a>
 
