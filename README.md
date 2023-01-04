@@ -19,8 +19,11 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
 
-</p>
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/yusufziyaak#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/yusufziyaak#gh-dark-mode-only)
+
+
+
+[linkedin]: https://linkedin.com/in/codeSTACKr
