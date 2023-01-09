@@ -28,7 +28,7 @@
 
 ### Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ysfzyak&show_icons=true&theme=midnight-purple" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ysfzyak&show_icons=true&theme=midnight-purple" /> -->
 
 ![](https://komarev.com/ghpvc/?username=ysfzyak&color=blueviolet)
 
