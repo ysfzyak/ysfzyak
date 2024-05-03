@@ -1,6 +1,5 @@
 ### Hi there, I'm Yusuf  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 * 🔭 I’m currently CS student at Turkish-German University.
-* ❤️ Besides technology, my main interests are sports, automobiles and airplanes.
 * 🤝 I’m looking for a software development internship.
 
 
